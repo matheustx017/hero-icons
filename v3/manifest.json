@@ -1,0 +1,3820 @@
+{
+  "version": "v3",
+  "target_size": 48,
+  "format": "png",
+  "base_url": "https://raw.githubusercontent.com/matheustx017/hero-icons/main/v3/",
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/matheustx017/hero-icons@main/v3/",
+  "count": 635,
+  "icons": [
+    {
+      "hero": "Adam Warlock",
+      "costume": "Blood Soul",
+      "marvel_id": "1046301",
+      "file": "1046301.png"
+    },
+    {
+      "hero": "Adam Warlock",
+      "costume": "Cosmic Jade",
+      "marvel_id": "1046100",
+      "file": "1046100.png"
+    },
+    {
+      "hero": "Adam Warlock",
+      "costume": "Cosmic Warlock",
+      "marvel_id": "1046302",
+      "file": "1046302.png"
+    },
+    {
+      "hero": "Adam Warlock",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Adam_Warlock_Default.png"
+    },
+    {
+      "hero": "Adam Warlock",
+      "costume": "Guardians Of The Galaxy Vol 3",
+      "marvel_id": "1046800",
+      "file": "1046800.png"
+    },
+    {
+      "hero": "Adam Warlock",
+      "costume": "Immortal Avatar",
+      "marvel_id": "1046300",
+      "file": "1046300.png"
+    },
+    {
+      "hero": "Adam Warlock",
+      "costume": "King In White",
+      "marvel_id": "1046102",
+      "file": "1046102.png"
+    },
+    {
+      "hero": "Adam Warlock",
+      "costume": "Living Tribunal",
+      "marvel_id": "1046501",
+      "file": "1046501.png"
+    },
+    {
+      "hero": "Adam Warlock",
+      "costume": "Magus",
+      "marvel_id": "1046500",
+      "file": "1046500.png"
+    },
+    {
+      "hero": "Adam Warlock",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1046101",
+      "file": "1046101.png"
+    },
+    {
+      "hero": "Angela",
+      "costume": "Ace Of Spades",
+      "marvel_id": "1056300",
+      "file": "1056300.png"
+    },
+    {
+      "hero": "Angela",
+      "costume": "Angela",
+      "marvel_id": "",
+      "file": "Angela_Angela.png"
+    },
+    {
+      "hero": "Angela",
+      "costume": "Divine Dragon Wing",
+      "marvel_id": "1056101",
+      "file": "1056101.png"
+    },
+    {
+      "hero": "Angela",
+      "costume": "Doom Angel",
+      "marvel_id": "1056502",
+      "file": "1056502.png"
+    },
+    {
+      "hero": "Angela",
+      "costume": "Odins Beautiful Daughter",
+      "marvel_id": "1056501",
+      "file": "1056501.png"
+    },
+    {
+      "hero": "Angela",
+      "costume": "Sirianas Silver",
+      "marvel_id": "1056100",
+      "file": "1056100.png"
+    },
+    {
+      "hero": "Angela",
+      "costume": "Skuld 2099",
+      "marvel_id": "1056500",
+      "file": "1056500.png"
+    },
+    {
+      "hero": "Black Cat",
+      "costume": "Beguiling Blue",
+      "marvel_id": "1061101",
+      "file": "1061101.png"
+    },
+    {
+      "hero": "Black Cat",
+      "costume": "Black Cat",
+      "marvel_id": "",
+      "file": "Black_Cat_Black_Cat.png"
+    },
+    {
+      "hero": "Black Cat",
+      "costume": "Gilded Shadow",
+      "marvel_id": "1061100",
+      "file": "1061100.png"
+    },
+    {
+      "hero": "Black Cat",
+      "costume": "Pink Purr",
+      "marvel_id": "ps1061302",
+      "file": "1061302.png"
+    },
+    {
+      "hero": "Black Cat",
+      "costume": "Purple Prowl",
+      "marvel_id": "ps1061301",
+      "file": "1061301.png"
+    },
+    {
+      "hero": "Black Cat",
+      "costume": "Urban Predator",
+      "marvel_id": "1061300",
+      "file": "1061300.png"
+    },
+    {
+      "hero": "Black Cat",
+      "costume": "Wild Card",
+      "marvel_id": "1061500",
+      "file": "1061500.png"
+    },
+    {
+      "hero": "Black Panther",
+      "costume": "Basts Chosen",
+      "marvel_id": "1026500",
+      "file": "1026500.png"
+    },
+    {
+      "hero": "Black Panther",
+      "costume": "Damisa Sarki",
+      "marvel_id": "1026501",
+      "file": "1026501.png"
+    },
+    {
+      "hero": "Black Panther",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Black_Panther_Default.png"
+    },
+    {
+      "hero": "Black Panther",
+      "costume": "Galactic Claw",
+      "marvel_id": "1026300",
+      "file": "1026300.png"
+    },
+    {
+      "hero": "Black Panther",
+      "costume": "Golden Panther",
+      "marvel_id": "1026101",
+      "file": "1026101.png"
+    },
+    {
+      "hero": "Black Panther",
+      "costume": "King Of Wakanda",
+      "marvel_id": "1026502",
+      "file": "1026502.png"
+    },
+    {
+      "hero": "Black Panther",
+      "costume": "Orisha Blood",
+      "marvel_id": "1026100",
+      "file": "1026100.png"
+    },
+    {
+      "hero": "Black Panther",
+      "costume": "Phoenix Panther",
+      "marvel_id": "1026302",
+      "file": "1026302.png"
+    },
+    {
+      "hero": "Black Panther",
+      "costume": "Thrice Cursed King",
+      "marvel_id": "1026301",
+      "file": "1026301.png"
+    },
+    {
+      "hero": "Black Widow",
+      "costume": "Aquatic Assassin",
+      "marvel_id": "1033504",
+      "file": "1033504.png"
+    },
+    {
+      "hero": "Black Widow",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Black_Widow_Default.png"
+    },
+    {
+      "hero": "Black Widow",
+      "costume": "Golden Gossamer",
+      "marvel_id": "ps1033505",
+      "file": "1033505.png"
+    },
+    {
+      "hero": "Black Widow",
+      "costume": "Lethal Toxicity",
+      "marvel_id": "1033100",
+      "file": "1033100.png"
+    },
+    {
+      "hero": "Black Widow",
+      "costume": "Lions Heartbeat",
+      "marvel_id": "1033300",
+      "file": "1033300.png"
+    },
+    {
+      "hero": "Black Widow",
+      "costume": "Midnight Suspense",
+      "marvel_id": "1033503",
+      "file": "1033503.png"
+    },
+    {
+      "hero": "Black Widow",
+      "costume": "Mrs Barnes",
+      "marvel_id": "1033501",
+      "file": "1033501.png"
+    },
+    {
+      "hero": "Black Widow",
+      "costume": "Phoenix Widow",
+      "marvel_id": "1033502",
+      "file": "1033502.png"
+    },
+    {
+      "hero": "Black Widow",
+      "costume": "Red Runway Veil",
+      "marvel_id": "1033500",
+      "file": "1033500.png"
+    },
+    {
+      "hero": "Black Widow",
+      "costume": "Toxic Trace",
+      "marvel_id": "ps1033506",
+      "file": "1033506.png"
+    },
+    {
+      "hero": "Black Widow",
+      "costume": "White Suit",
+      "marvel_id": "1033800",
+      "file": "1033800.png"
+    },
+    {
+      "hero": "Blade",
+      "costume": "Blade",
+      "marvel_id": "",
+      "file": "Blade_Blade.png"
+    },
+    {
+      "hero": "Blade",
+      "costume": "Blade Knight",
+      "marvel_id": "1044800",
+      "file": "1044800.png"
+    },
+    {
+      "hero": "Blade",
+      "costume": "Daybreak",
+      "marvel_id": "1044100",
+      "file": "1044100.png"
+    },
+    {
+      "hero": "Blade",
+      "costume": "Emerald Blade",
+      "marvel_id": "1044102",
+      "file": "1044102.png"
+    },
+    {
+      "hero": "Blade",
+      "costume": "Polarity Edge",
+      "marvel_id": "1044300",
+      "file": "1044300.png"
+    },
+    {
+      "hero": "Blade",
+      "costume": "Restful Recovery",
+      "marvel_id": "1044500",
+      "file": "1044500.png"
+    },
+    {
+      "hero": "Blade",
+      "costume": "Starlit Shadow",
+      "marvel_id": "1044302",
+      "file": "1044302.png"
+    },
+    {
+      "hero": "Blade",
+      "costume": "Vampire Slayer",
+      "marvel_id": "1044301",
+      "file": "1044301.png"
+    },
+    {
+      "hero": "Blade",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1044101",
+      "file": "1044101.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Avengers Infinity War",
+      "marvel_id": "1022801",
+      "file": "1022801.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Brett Hendrick The Star",
+      "marvel_id": "1022302",
+      "file": "1022302.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Captain Aimerica",
+      "marvel_id": "1022100",
+      "file": "1022100.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Captain Gladiator",
+      "marvel_id": "1022500",
+      "file": "1022500.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Captain Klyntar",
+      "marvel_id": "1022502",
+      "file": "1022502.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Capwolf",
+      "marvel_id": "1022504",
+      "file": "1022504.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Cursed Captain",
+      "marvel_id": "1022301",
+      "file": "1022301.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Captain_America_Default.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Galactic Talon",
+      "marvel_id": "1022300",
+      "file": "1022300.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Golden Age",
+      "marvel_id": "1022503",
+      "file": "1022503.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Primal Patriot",
+      "marvel_id": "1022505",
+      "file": "1022505.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Seaside Sentinel",
+      "marvel_id": "1022303",
+      "file": "1022303.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Star Spangled Style",
+      "marvel_id": "1022501",
+      "file": "1022501.png"
+    },
+    {
+      "hero": "Captain America",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1022102",
+      "file": "1022102.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Coastal Couple",
+      "marvel_id": "1025305",
+      "file": "1025305.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Dance Partner",
+      "marvel_id": "1025300",
+      "file": "1025300.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Daring Duo",
+      "marvel_id": "1025304",
+      "file": "1025304.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Darkened Day",
+      "marvel_id": "ps1025306",
+      "file": "1025306.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Cloak_And_Dagger_Default.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Growth Decay",
+      "marvel_id": "1025500",
+      "file": "1025500.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Ice Pas De Deux",
+      "marvel_id": "1025303",
+      "file": "1025303.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Lemon Lime",
+      "marvel_id": "1025100",
+      "file": "1025100.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Polarity Bond",
+      "marvel_id": "1025302",
+      "file": "1025302.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Sapphire Splash",
+      "marvel_id": "ps1025308",
+      "file": "1025308.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Storied Survivors",
+      "marvel_id": "1025501",
+      "file": "1025501.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Sunset Shores",
+      "marvel_id": "ps1025309",
+      "file": "1025309.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Twilight Duo",
+      "marvel_id": "1025301",
+      "file": "1025301.png"
+    },
+    {
+      "hero": "Cloak And Dagger",
+      "costume": "Twisted Thorns",
+      "marvel_id": "ps1025307",
+      "file": "1025307.png"
+    },
+    {
+      "hero": "Cyclops",
+      "costume": "Cyclops",
+      "marvel_id": "",
+      "file": "Cyclops_Cyclops.png"
+    },
+    {
+      "hero": "Cyclops",
+      "costume": "Futuristic Focus",
+      "marvel_id": "1063101",
+      "file": "1063101.png"
+    },
+    {
+      "hero": "Cyclops",
+      "costume": "Shadowed Gaze",
+      "marvel_id": "1063100",
+      "file": "1063100.png"
+    },
+    {
+      "hero": "Cyclops",
+      "costume": "Weapon M",
+      "marvel_id": "1063500",
+      "file": "1063500.png"
+    },
+    {
+      "hero": "Daredevil",
+      "costume": "Aurora Twilight",
+      "marvel_id": "1055102",
+      "file": "1055102.png"
+    },
+    {
+      "hero": "Daredevil",
+      "costume": "Daredevil",
+      "marvel_id": "",
+      "file": "Daredevil_Daredevil.png"
+    },
+    {
+      "hero": "Daredevil",
+      "costume": "Daredevil Born Again Season 2",
+      "marvel_id": "1055800",
+      "file": "1055800.png"
+    },
+    {
+      "hero": "Daredevil",
+      "costume": "Devil 2099",
+      "marvel_id": "1055500",
+      "file": "1055500.png"
+    },
+    {
+      "hero": "Daredevil",
+      "costume": "Fearless Origin",
+      "marvel_id": "1055100",
+      "file": "1055100.png"
+    },
+    {
+      "hero": "Daredevil",
+      "costume": "Not Daredevil",
+      "marvel_id": "1055501",
+      "file": "1055501.png"
+    },
+    {
+      "hero": "Daredevil",
+      "costume": "Shadowed Start",
+      "marvel_id": "1055502",
+      "file": "1055502.png"
+    },
+    {
+      "hero": "Daredevil",
+      "costume": "Shenloongs Creed",
+      "marvel_id": "1055101",
+      "file": "1055101.png"
+    },
+    {
+      "hero": "Daredevil",
+      "costume": "Sonar Savior",
+      "marvel_id": "1055300",
+      "file": "1055300.png"
+    },
+    {
+      "hero": "Daredevil",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1055103",
+      "file": "1055103.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "100 Thieves Ignite Series 2026",
+      "marvel_id": "1057113",
+      "file": "1057113.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Captain Pool",
+      "marvel_id": "1057300",
+      "file": "1057300.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Dead Mummy",
+      "marvel_id": "1057302",
+      "file": "1057302.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Deadpool",
+      "marvel_id": "",
+      "file": "Deadpool_Deadpool.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Flyquest Ignite Series 2026",
+      "marvel_id": "1057112",
+      "file": "1057112.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Geng Ignite Series 2026",
+      "marvel_id": "1057110",
+      "file": "1057110.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Liquid Citadel Ignite Series 2026",
+      "marvel_id": "1057111",
+      "file": "1057111.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Maid Pool",
+      "marvel_id": "1057500",
+      "file": "1057500.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Monster King",
+      "marvel_id": "1057301",
+      "file": "1057301.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Navi Ignite Series 2026",
+      "marvel_id": "1057105",
+      "file": "1057105.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Nrg Shock Ignite Series 2026",
+      "marvel_id": "1057103",
+      "file": "1057103.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Poppin Peach",
+      "marvel_id": "ps1057502",
+      "file": "1057502.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Reject Ignite Series 2026",
+      "marvel_id": "1057108",
+      "file": "1057108.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Sentinels Ignite Series 2026",
+      "marvel_id": "1057109",
+      "file": "1057109.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Spacestation Gaming Ignite Series 2026",
+      "marvel_id": "1057104",
+      "file": "1057104.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Team Heretics Ignite Series 2026",
+      "marvel_id": "1057107",
+      "file": "1057107.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Tsm Ignite Series 2026",
+      "marvel_id": "1057106",
+      "file": "1057106.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Virtuspro Ignite Series 2026",
+      "marvel_id": "1057102",
+      "file": "1057102.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Wade Wilson The Spirit Squad",
+      "marvel_id": "1057800",
+      "file": "1057800.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Workwear Woes",
+      "marvel_id": "1057101",
+      "file": "1057101.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "X Force",
+      "marvel_id": "1057100",
+      "file": "1057100.png"
+    },
+    {
+      "hero": "Deadpool",
+      "costume": "Yapping Yolk",
+      "marvel_id": "ps1057501",
+      "file": "1057501.png"
+    },
+    {
+      "hero": "Devil Dinosaur",
+      "costume": "Chrono Armor",
+      "marvel_id": "1062500",
+      "file": "1062500.png"
+    },
+    {
+      "hero": "Devil Dinosaur",
+      "costume": "Corporate Cruncher",
+      "marvel_id": "1062101",
+      "file": "1062101.png"
+    },
+    {
+      "hero": "Devil Dinosaur",
+      "costume": "Devil Dinosaur",
+      "marvel_id": "",
+      "file": "Devil_Dinosaur_Devil_Dinosaur.png"
+    },
+    {
+      "hero": "Devil Dinosaur",
+      "costume": "Tropical Beast",
+      "marvel_id": "1062100",
+      "file": "1062100.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Astral Wanderer",
+      "marvel_id": "1018101",
+      "file": "1018101.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Bleeker Street Strut",
+      "marvel_id": "1018302",
+      "file": "1018302.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Crimson Conjurer",
+      "marvel_id": "ps1018307",
+      "file": "1018307.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Doctor_Strange_Default.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Doctor Strange In The Multiverse Of Madness",
+      "marvel_id": "1018800",
+      "file": "1018800.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "God Of Magic",
+      "marvel_id": "1018500",
+      "file": "1018500.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Magical Mint",
+      "marvel_id": "ps1018308",
+      "file": "1018308.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Master Of Black Magic",
+      "marvel_id": "1018100",
+      "file": "1018100.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Nautical Mystic",
+      "marvel_id": "1018305",
+      "file": "1018305.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Old Man Strange",
+      "marvel_id": "1018301",
+      "file": "1018301.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Phantom Sorcerer",
+      "marvel_id": "1018303",
+      "file": "1018303.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Sorcerer Immortal",
+      "marvel_id": "1018300",
+      "file": "1018300.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Sorcerer Supreme Of The Galaxy",
+      "marvel_id": "1018501",
+      "file": "1018501.png"
+    },
+    {
+      "hero": "Doctor Strange",
+      "costume": "Stephen Sanders The Doctor",
+      "marvel_id": "1018304",
+      "file": "1018304.png"
+    },
+    {
+      "hero": "Elsa_Bloodstone",
+      "costume": "Apex Huntress",
+      "marvel_id": "1059100",
+      "file": "1059100.png"
+    },
+    {
+      "hero": "Elsa_Bloodstone",
+      "costume": "Bloody Bloodstone",
+      "marvel_id": "1059500",
+      "file": "1059500.png"
+    },
+    {
+      "hero": "Elsa_Bloodstone",
+      "costume": "Cangyan",
+      "marvel_id": "ps1059301",
+      "file": "1059301.png"
+    },
+    {
+      "hero": "Elsa_Bloodstone",
+      "costume": "Elsa Bloodstone",
+      "marvel_id": "",
+      "file": "Elsa_Bloodstone_Elsa_Bloodstone.png"
+    },
+    {
+      "hero": "Elsa_Bloodstone",
+      "costume": "Icy Edge",
+      "marvel_id": "1059101",
+      "file": "1059101.png"
+    },
+    {
+      "hero": "Elsa_Bloodstone",
+      "costume": "Marine Maid",
+      "marvel_id": "ps1059501",
+      "file": "1059501.png"
+    },
+    {
+      "hero": "Elsa_Bloodstone",
+      "costume": "Pastel Polisher",
+      "marvel_id": "ps1059502",
+      "file": "1059502.png"
+    },
+    {
+      "hero": "Elsa_Bloodstone",
+      "costume": "Primal Predator",
+      "marvel_id": "1059503",
+      "file": "1059503.png"
+    },
+    {
+      "hero": "Elsa_Bloodstone",
+      "costume": "Shadowy Moss",
+      "marvel_id": "ps1059302",
+      "file": "1059302.png"
+    },
+    {
+      "hero": "Elsa_Bloodstone",
+      "costume": "Young Blood",
+      "marvel_id": "1059300",
+      "file": "1059300.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "Black Queen Of The Marauders",
+      "marvel_id": "1053502",
+      "file": "1053502.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "Blue Sapphire",
+      "marvel_id": "1053100",
+      "file": "1053100.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "Caviar Black",
+      "marvel_id": "ps1053305",
+      "file": "1053305.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Emma_Frost_Default.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "Gala Glam",
+      "marvel_id": "1053304",
+      "file": "1053304.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "Golden Diamond",
+      "marvel_id": "1053102",
+      "file": "1053102.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "Hellfire Protocol",
+      "marvel_id": "1053300",
+      "file": "1053300.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "Phoenix Diamond",
+      "marvel_id": "1053501",
+      "file": "1053501.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "Queen Of Diamonds",
+      "marvel_id": "1053301",
+      "file": "1053301.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "Ravishing Red",
+      "marvel_id": "ps1053306",
+      "file": "1053306.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "White Wave Queen",
+      "marvel_id": "1053302",
+      "file": "1053302.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1053101",
+      "file": "1053101.png"
+    },
+    {
+      "hero": "Emma Frost",
+      "costume": "X Revolution",
+      "marvel_id": "1053500",
+      "file": "1053500.png"
+    },
+    {
+      "hero": "Gambit",
+      "costume": "Alluring Ace",
+      "marvel_id": "1058303",
+      "file": "1058303.png"
+    },
+    {
+      "hero": "Gambit",
+      "costume": "Barrier Buster",
+      "marvel_id": "1058500",
+      "file": "1058500.png"
+    },
+    {
+      "hero": "Gambit",
+      "costume": "Crimson Heart",
+      "marvel_id": "1058100",
+      "file": "1058100.png"
+    },
+    {
+      "hero": "Gambit",
+      "costume": "Gambit",
+      "marvel_id": "",
+      "file": "Gambit_Gambit.png"
+    },
+    {
+      "hero": "Gambit",
+      "costume": "Mr X",
+      "marvel_id": "1058302",
+      "file": "1058302.png"
+    },
+    {
+      "hero": "Gambit",
+      "costume": "Sacrificial Pawn",
+      "marvel_id": "1058101",
+      "file": "1058101.png"
+    },
+    {
+      "hero": "Gambit",
+      "costume": "Thieves Guildmaster",
+      "marvel_id": "1058300",
+      "file": "1058300.png"
+    },
+    {
+      "hero": "Gambit",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1058102",
+      "file": "1058102.png"
+    },
+    {
+      "hero": "Groot",
+      "costume": "Abies Algae",
+      "marvel_id": "1027100",
+      "file": "1027100.png"
+    },
+    {
+      "hero": "Groot",
+      "costume": "Big Buddy",
+      "marvel_id": "1027502",
+      "file": "1027502.png"
+    },
+    {
+      "hero": "Groot",
+      "costume": "Carved Traveler",
+      "marvel_id": "1027500",
+      "file": "1027500.png"
+    },
+    {
+      "hero": "Groot",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Groot_Default.png"
+    },
+    {
+      "hero": "Groot",
+      "costume": "Guardians Of The Galaxy Vol 3",
+      "marvel_id": "1027800",
+      "file": "1027800.png"
+    },
+    {
+      "hero": "Groot",
+      "costume": "Holiday Happiness",
+      "marvel_id": "1027302",
+      "file": "1027302.png"
+    },
+    {
+      "hero": "Groot",
+      "costume": "Ironwood Serpent",
+      "marvel_id": "1027304",
+      "file": "1027304.png"
+    },
+    {
+      "hero": "Groot",
+      "costume": "Mecha Flora",
+      "marvel_id": "1027303",
+      "file": "1027303.png"
+    },
+    {
+      "hero": "Groot",
+      "costume": "Symbiote Flora",
+      "marvel_id": "1027501",
+      "file": "1027501.png"
+    },
+    {
+      "hero": "Groot",
+      "costume": "Yggroot",
+      "marvel_id": "1027301",
+      "file": "1027301.png"
+    },
+    {
+      "hero": "Hawkeye",
+      "costume": "Argent Archer",
+      "marvel_id": "1021102",
+      "file": "1021102.png"
+    },
+    {
+      "hero": "Hawkeye",
+      "costume": "Binary Arrow",
+      "marvel_id": "1021502",
+      "file": "1021502.png"
+    },
+    {
+      "hero": "Hawkeye",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Hawkeye_Default.png"
+    },
+    {
+      "hero": "Hawkeye",
+      "costume": "Freefall",
+      "marvel_id": "1021501",
+      "file": "1021501.png"
+    },
+    {
+      "hero": "Hawkeye",
+      "costume": "Galactic Fangs",
+      "marvel_id": "1021300",
+      "file": "1021300.png"
+    },
+    {
+      "hero": "Hawkeye",
+      "costume": "Old Man Hawkeye",
+      "marvel_id": "1021301",
+      "file": "1021301.png"
+    },
+    {
+      "hero": "Hawkeye",
+      "costume": "Ronin",
+      "marvel_id": "1021500",
+      "file": "1021500.png"
+    },
+    {
+      "hero": "Hawkeye",
+      "costume": "Tigers Eye",
+      "marvel_id": "1021100",
+      "file": "1021100.png"
+    },
+    {
+      "hero": "Hawkeye",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1021101",
+      "file": "1021101.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Hela_Default.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Disco Of The Dead",
+      "marvel_id": "1024305",
+      "file": "1024305.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Empress Of The Cosmos",
+      "marvel_id": "1024301",
+      "file": "1024301.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Goddess Of Death",
+      "marvel_id": "1024500",
+      "file": "1024500.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Helen Angerboda The Rebel",
+      "marvel_id": "1024306",
+      "file": "1024306.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Merciful Queen",
+      "marvel_id": "1024800",
+      "file": "1024800.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Queen In Black",
+      "marvel_id": "1024303",
+      "file": "1024303.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Ruby Revolt",
+      "marvel_id": "ps1024309",
+      "file": "1024309.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Savage Monarch",
+      "marvel_id": "1024307",
+      "file": "1024307.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "The Grim Lady",
+      "marvel_id": "1024304",
+      "file": "1024304.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Ultimate",
+      "marvel_id": "1024100",
+      "file": "1024100.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Violet Violence",
+      "marvel_id": "ps1024310",
+      "file": "1024310.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1024101",
+      "file": "1024101.png"
+    },
+    {
+      "hero": "Hela",
+      "costume": "Yami No Karasu",
+      "marvel_id": "1024302",
+      "file": "1024302.png"
+    },
+    {
+      "hero": "Hulk",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Hulk_Default.png"
+    },
+    {
+      "hero": "Hulk",
+      "costume": "Green Scar",
+      "marvel_id": "1011501",
+      "file": "1011501.png"
+    },
+    {
+      "hero": "Hulk",
+      "costume": "Infinity Hulk",
+      "marvel_id": "1011800",
+      "file": "1011800.png"
+    },
+    {
+      "hero": "Hulk",
+      "costume": "Joe Fixit",
+      "marvel_id": "1011502",
+      "file": "1011502.png"
+    },
+    {
+      "hero": "Hulk",
+      "costume": "Maestro",
+      "marvel_id": "1011300",
+      "file": "1011300.png"
+    },
+    {
+      "hero": "Hulk",
+      "costume": "Mighty G Bomb",
+      "marvel_id": "1011100",
+      "file": "1011100.png"
+    },
+    {
+      "hero": "Hulk",
+      "costume": "Punk Rage",
+      "marvel_id": "1011500",
+      "file": "1011500.png"
+    },
+    {
+      "hero": "Human Torch",
+      "costume": "Blood Blaze",
+      "marvel_id": "1017101",
+      "file": "1017101.png"
+    },
+    {
+      "hero": "Human Torch",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Human_Torch_Default.png"
+    },
+    {
+      "hero": "Human Torch",
+      "costume": "First Family",
+      "marvel_id": "1017100",
+      "file": "1017100.png"
+    },
+    {
+      "hero": "Human Torch",
+      "costume": "Future Foundation",
+      "marvel_id": "1017501",
+      "file": "1017501.png"
+    },
+    {
+      "hero": "Human Torch",
+      "costume": "Indigo Inferno",
+      "marvel_id": "ps1017504",
+      "file": "1017504.png"
+    },
+    {
+      "hero": "Human Torch",
+      "costume": "Jack Of Hearts",
+      "marvel_id": "1017300",
+      "file": "1017300.png"
+    },
+    {
+      "hero": "Human Torch",
+      "costume": "Negative Zone Gladiator",
+      "marvel_id": "1017500",
+      "file": "1017500.png"
+    },
+    {
+      "hero": "Human Torch",
+      "costume": "Silver Spark",
+      "marvel_id": "1017102",
+      "file": "1017102.png"
+    },
+    {
+      "hero": "Human Torch",
+      "costume": "Sunny Sizzler",
+      "marvel_id": "1017502",
+      "file": "1017502.png"
+    },
+    {
+      "hero": "Human Torch",
+      "costume": "The Fantastic Four First Steps",
+      "marvel_id": "1017800",
+      "file": "1017800.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Alluring Apple",
+      "marvel_id": "ps1050304",
+      "file": "1050304.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Azure Shade",
+      "marvel_id": "1050502",
+      "file": "1050502.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Blood Shield",
+      "marvel_id": "1050101",
+      "file": "1050101.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Invisible_Woman_Default.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Disappearing Dessert",
+      "marvel_id": "1050301",
+      "file": "1050301.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Dune Daisy",
+      "marvel_id": "ps1050505",
+      "file": "1050505.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "First Family",
+      "marvel_id": "1050100",
+      "file": "1050100.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Future Foundation",
+      "marvel_id": "1050501",
+      "file": "1050501.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Lush Luminance",
+      "marvel_id": "ps1050506",
+      "file": "1050506.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Malice",
+      "marvel_id": "1050500",
+      "file": "1050500.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Mango Magic",
+      "marvel_id": "ps1050303",
+      "file": "1050303.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Midnight Majesty",
+      "marvel_id": "ps1050504",
+      "file": "1050504.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Pine Opposition",
+      "marvel_id": "ps1050306",
+      "file": "1050306.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Prism Parade",
+      "marvel_id": "1050302",
+      "file": "1050302.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Radiant Ray",
+      "marvel_id": "ps1050308",
+      "file": "1050308.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Riann Landau The Debater",
+      "marvel_id": "1050305",
+      "file": "1050305.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Royal Blue Rebuttal",
+      "marvel_id": "ps1050307",
+      "file": "1050307.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Tangerine Tint",
+      "marvel_id": "ps1050507",
+      "file": "1050507.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "The Fantastic Four First Steps",
+      "marvel_id": "1050800",
+      "file": "1050800.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "The Life Fantastic",
+      "marvel_id": "1050300",
+      "file": "1050300.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Vivid Vibe",
+      "marvel_id": "ps1050309",
+      "file": "1050309.png"
+    },
+    {
+      "hero": "Invisible Woman",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1050103",
+      "file": "1050103.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Binary Fist",
+      "marvel_id": "1052301",
+      "file": "1052301.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Iron_Fist_Default.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Immortal Weapon Of Agamotto",
+      "marvel_id": "1052501",
+      "file": "1052501.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Lin Shao The Knockout",
+      "marvel_id": "1052303",
+      "file": "1052303.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Lions Gaze",
+      "marvel_id": "1052300",
+      "file": "1052300.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Lively Lion",
+      "marvel_id": "ps1052305",
+      "file": "1052305.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Martial Arts Savant",
+      "marvel_id": "1052100",
+      "file": "1052100.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Phoenix Fist",
+      "marvel_id": "1052502",
+      "file": "1052502.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Savage Spirit",
+      "marvel_id": "ps1052304",
+      "file": "1052304.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Shenloong Champion",
+      "marvel_id": "1052302",
+      "file": "1052302.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Shou Laos Champion",
+      "marvel_id": "ps1052310",
+      "file": "1052310.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Sword Master",
+      "marvel_id": "1052500",
+      "file": "1052500.png"
+    },
+    {
+      "hero": "Iron Fist",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1052101",
+      "file": "1052101.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Armor Model 42",
+      "marvel_id": "1034100",
+      "file": "1034100.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Avengers Endgame",
+      "marvel_id": "1034800",
+      "file": "1034800.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Big Shot",
+      "marvel_id": "1034503",
+      "file": "1034503.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Blood Edge Armor",
+      "marvel_id": "1034300",
+      "file": "1034300.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Iron_Man_Default.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Extrembiote Armor",
+      "marvel_id": "1034502",
+      "file": "1034502.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Iron Mariner",
+      "marvel_id": "1034301",
+      "file": "1034301.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Iron Pharaoh",
+      "marvel_id": "1034302",
+      "file": "1034302.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Iron Samurai",
+      "marvel_id": "1034505",
+      "file": "1034505.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Mark I",
+      "marvel_id": "1034504",
+      "file": "1034504.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Steam Power",
+      "marvel_id": "1034500",
+      "file": "1034500.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "Superior Iron Man",
+      "marvel_id": "1034501",
+      "file": "1034501.png"
+    },
+    {
+      "hero": "Iron Man",
+      "costume": "The Avengers",
+      "marvel_id": "1034801",
+      "file": "1034801.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "8 Bit Bash",
+      "marvel_id": "1047800",
+      "file": "1047800.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Adopted Avenger",
+      "marvel_id": "1047100",
+      "file": "1047100.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Blue Barrage",
+      "marvel_id": "ps1047304",
+      "file": "1047304.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Blue Blizzard",
+      "marvel_id": "ps1047306",
+      "file": "1047306.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Business Shark",
+      "marvel_id": "1047502",
+      "file": "1047502.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Cuddly Fuzzlefin",
+      "marvel_id": "1047300",
+      "file": "1047300.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Jeff_The_Land_Shark_Default.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Devil Landshark",
+      "marvel_id": "1047309",
+      "file": "1047309.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Devouring Duo",
+      "marvel_id": "1047501",
+      "file": "1047501.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Duck Defender",
+      "marvel_id": "1047307",
+      "file": "1047307.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Green Bill",
+      "marvel_id": "ps1047311",
+      "file": "1047311.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Incognito Dolphin",
+      "marvel_id": "1047500",
+      "file": "1047500.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Jeff Olantern",
+      "marvel_id": "1047302",
+      "file": "1047302.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Magma Menace",
+      "marvel_id": "ps1047312",
+      "file": "1047312.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Maid To Chomp",
+      "marvel_id": "1047308",
+      "file": "1047308.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Powder Pink",
+      "marvel_id": "ps1047305",
+      "file": "1047305.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Rosy Ruin",
+      "marvel_id": "ps1047313",
+      "file": "1047313.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Sunshine Land Shark",
+      "marvel_id": "1047301",
+      "file": "1047301.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "Verdant Vortex",
+      "marvel_id": "ps1047303",
+      "file": "1047303.png"
+    },
+    {
+      "hero": "Jeff The Land Shark",
+      "costume": "White Waddle",
+      "marvel_id": "ps1047310",
+      "file": "1047310.png"
+    },
+    {
+      "hero": "Jubilee",
+      "costume": "Cool Combustion",
+      "marvel_id": "1064100",
+      "file": "1064100.png"
+    },
+    {
+      "hero": "Jubilee",
+      "costume": "Crimson Crown",
+      "marvel_id": "1064101",
+      "file": "1064101.png"
+    },
+    {
+      "hero": "Jubilee",
+      "costume": "Jubilee",
+      "marvel_id": "",
+      "file": "Jubilee_Jubilee.png"
+    },
+    {
+      "hero": "Jubilee",
+      "costume": "Midnight Mutant",
+      "marvel_id": "1064500",
+      "file": "1064500.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "All Butcher",
+      "marvel_id": "1016501",
+      "file": "1016501.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Loki_Default.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Frost Giant",
+      "marvel_id": "1016100",
+      "file": "1016100.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Ignite Loki 2025",
+      "marvel_id": "1016101",
+      "file": "1016101.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Immortal Firebird",
+      "marvel_id": "1016302",
+      "file": "1016302.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Lady Loki",
+      "marvel_id": "1016502",
+      "file": "1016502.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Loki Season 2",
+      "marvel_id": "1016800",
+      "file": "1016800.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Low Key Loki",
+      "marvel_id": "1016503",
+      "file": "1016503.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Presidential Attire",
+      "marvel_id": "1016500",
+      "file": "1016500.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Robe Of Relaxation",
+      "marvel_id": "1016301",
+      "file": "1016301.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Sapphire Sorceress",
+      "marvel_id": "ps1016506",
+      "file": "1016506.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Seaside Siren",
+      "marvel_id": "1016504",
+      "file": "1016504.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Shin Sagi Shi",
+      "marvel_id": "1016300",
+      "file": "1016300.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Sunlit Sovereign",
+      "marvel_id": "ps1016505",
+      "file": "1016505.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "The Avengers",
+      "marvel_id": "1016801",
+      "file": "1016801.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Tidal Trickery",
+      "marvel_id": "ps1016303",
+      "file": "1016303.png"
+    },
+    {
+      "hero": "Loki",
+      "costume": "Twilight Aurora",
+      "marvel_id": "ps1016802",
+      "file": "1016802.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Abyssal Glow",
+      "marvel_id": "1031305",
+      "file": "1031305.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Blueberry Ice",
+      "marvel_id": "ps1031310",
+      "file": "1031310.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Cherry Delight",
+      "marvel_id": "1031308",
+      "file": "1031308.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Citrus Spark",
+      "marvel_id": "ps1031318",
+      "file": "1031318.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Cool Summer",
+      "marvel_id": "1031303",
+      "file": "1031303.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Luna_Snow_Default.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Disco Pop",
+      "marvel_id": "1031309",
+      "file": "1031309.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Fruit Cake Flurry",
+      "marvel_id": "ps1031311",
+      "file": "1031311.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Jade Jewel",
+      "marvel_id": "ps1031315",
+      "file": "1031315.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Minty Beats",
+      "marvel_id": "1031100",
+      "file": "1031100.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Mirae 2099",
+      "marvel_id": "1031301",
+      "file": "1031301.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Night Nebula",
+      "marvel_id": "ps1031314",
+      "file": "1031314.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Nolaehaneun Manyeo",
+      "marvel_id": "1031302",
+      "file": "1031302.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Park Sun Young The Dancer",
+      "marvel_id": "1031312",
+      "file": "1031312.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Plasma Pulse",
+      "marvel_id": "ps1031304",
+      "file": "1031304.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Prismatic Pulse",
+      "marvel_id": "ps1031307",
+      "file": "1031307.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Purple Pulse",
+      "marvel_id": "ps1031317",
+      "file": "1031317.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Radiant Radiance",
+      "marvel_id": "ps1031306",
+      "file": "1031306.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Shining Star",
+      "marvel_id": "1031300",
+      "file": "1031300.png"
+    },
+    {
+      "hero": "Luna Snow",
+      "costume": "Sonic Trailblazer",
+      "marvel_id": "1031313",
+      "file": "1031313.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Amethyst Armor",
+      "marvel_id": "1029100",
+      "file": "1029100.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Blue Blitz",
+      "marvel_id": "ps1029506",
+      "file": "1029506.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Magik_Default.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Eldritch Armor",
+      "marvel_id": "1029500",
+      "file": "1029500.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Frozen Demon",
+      "marvel_id": "1029301",
+      "file": "1029301.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Green Glow",
+      "marvel_id": "ps1029306",
+      "file": "1029306.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Infernal Idol",
+      "marvel_id": "1029304",
+      "file": "1029304.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Lavender Limbo",
+      "marvel_id": "ps1029505",
+      "file": "1029505.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Neon Nemesis",
+      "marvel_id": "ps1029307",
+      "file": "1029307.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Netherworld Noble",
+      "marvel_id": "1029503",
+      "file": "1029503.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "New Millennia Might",
+      "marvel_id": "1029303",
+      "file": "1029303.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Phoenix Demon",
+      "marvel_id": "1029502",
+      "file": "1029502.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Punkchild",
+      "marvel_id": "1029300",
+      "file": "1029300.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Retro X Uniform",
+      "marvel_id": "1029501",
+      "file": "1029501.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Rosy Resilience",
+      "marvel_id": "ps1029302",
+      "file": "1029302.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Soulless Sword",
+      "marvel_id": "1029305",
+      "file": "1029305.png"
+    },
+    {
+      "hero": "Magik",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1029101",
+      "file": "1029101.png"
+    },
+    {
+      "hero": "Magneto",
+      "costume": "Binary Sword",
+      "marvel_id": "1037300",
+      "file": "1037300.png"
+    },
+    {
+      "hero": "Magneto",
+      "costume": "Black Gold",
+      "marvel_id": "1037102",
+      "file": "1037102.png"
+    },
+    {
+      "hero": "Magneto",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Magneto_Default.png"
+    },
+    {
+      "hero": "Magneto",
+      "costume": "King Magnus",
+      "marvel_id": "1037501",
+      "file": "1037501.png"
+    },
+    {
+      "hero": "Magneto",
+      "costume": "Master Of Magnetism",
+      "marvel_id": "1037500",
+      "file": "1037500.png"
+    },
+    {
+      "hero": "Magneto",
+      "costume": "Seat Of Autumn",
+      "marvel_id": "1037502",
+      "file": "1037502.png"
+    },
+    {
+      "hero": "Magneto",
+      "costume": "Temporal Tyrant",
+      "marvel_id": "1037301",
+      "file": "1037301.png"
+    },
+    {
+      "hero": "Magneto",
+      "costume": "The Trial Of Magneto",
+      "marvel_id": "1037302",
+      "file": "1037302.png"
+    },
+    {
+      "hero": "Magneto",
+      "costume": "Uncanny Blacksteel",
+      "marvel_id": "1037100",
+      "file": "1037100.png"
+    },
+    {
+      "hero": "Magneto",
+      "costume": "Untamed Overlord",
+      "marvel_id": "1037503",
+      "file": "1037503.png"
+    },
+    {
+      "hero": "Magneto",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1037101",
+      "file": "1037101.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Akkaban Acolyte",
+      "marvel_id": "1020306",
+      "file": "1020306.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Black Gold",
+      "marvel_id": "1020102",
+      "file": "1020102.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Blue Breeze",
+      "marvel_id": "ps1020303",
+      "file": "1020303.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Citrus Sunrise",
+      "marvel_id": "ps1020304",
+      "file": "1020304.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Mantis_Default.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Flora Maiden",
+      "marvel_id": "1020500",
+      "file": "1020500.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Galactic Gladiator",
+      "marvel_id": "1020305",
+      "file": "1020305.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Galactic Wings",
+      "marvel_id": "1020300",
+      "file": "1020300.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Guardians Of The Galaxy Vol 3",
+      "marvel_id": "1020800",
+      "file": "1020800.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Jade Maiden",
+      "marvel_id": "1020301",
+      "file": "1020301.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Knowhere Corp",
+      "marvel_id": "1020100",
+      "file": "1020100.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Mandy Celestine The Greeter",
+      "marvel_id": "1020307",
+      "file": "1020307.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Oceanic Harmony",
+      "marvel_id": "1020302",
+      "file": "1020302.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Starlit Madonna",
+      "marvel_id": "1020501",
+      "file": "1020501.png"
+    },
+    {
+      "hero": "Mantis",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1020101",
+      "file": "1020101.png"
+    },
+    {
+      "hero": "Mister Fantastic",
+      "costume": "Dad Tastic Reed",
+      "marvel_id": "1040301",
+      "file": "1040301.png"
+    },
+    {
+      "hero": "Mister Fantastic",
+      "costume": "Danum Ket The Professor",
+      "marvel_id": "1040302",
+      "file": "1040302.png"
+    },
+    {
+      "hero": "Mister Fantastic",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Mister_Fantastic_Default.png"
+    },
+    {
+      "hero": "Mister Fantastic",
+      "costume": "Fantastic Beach Dad",
+      "marvel_id": "1040303",
+      "file": "1040303.png"
+    },
+    {
+      "hero": "Mister Fantastic",
+      "costume": "First Family",
+      "marvel_id": "1040100",
+      "file": "1040100.png"
+    },
+    {
+      "hero": "Mister Fantastic",
+      "costume": "Future Foundation",
+      "marvel_id": "1040501",
+      "file": "1040501.png"
+    },
+    {
+      "hero": "Mister Fantastic",
+      "costume": "Red Y 4 Action",
+      "marvel_id": "1040102",
+      "file": "1040102.png"
+    },
+    {
+      "hero": "Mister Fantastic",
+      "costume": "The Fantastic Four First Steps",
+      "marvel_id": "1040800",
+      "file": "1040800.png"
+    },
+    {
+      "hero": "Mister Fantastic",
+      "costume": "The Life Fantastic",
+      "marvel_id": "1040300",
+      "file": "1040300.png"
+    },
+    {
+      "hero": "Mister Fantastic",
+      "costume": "The Maker",
+      "marvel_id": "1040500",
+      "file": "1040500.png"
+    },
+    {
+      "hero": "Mister Fantastic",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1040101",
+      "file": "1040101.png"
+    },
+    {
+      "hero": "Moon Knight",
+      "costume": "Blood Moon Knight",
+      "marvel_id": "1030101",
+      "file": "1030101.png"
+    },
+    {
+      "hero": "Moon Knight",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Moon_Knight_Default.png"
+    },
+    {
+      "hero": "Moon Knight",
+      "costume": "Eclipse Knight",
+      "marvel_id": "1030302",
+      "file": "1030302.png"
+    },
+    {
+      "hero": "Moon Knight",
+      "costume": "Fist Of Vengeance",
+      "marvel_id": "1030800",
+      "file": "1030800.png"
+    },
+    {
+      "hero": "Moon Knight",
+      "costume": "Golden Moonlight",
+      "marvel_id": "1030100",
+      "file": "1030100.png"
+    },
+    {
+      "hero": "Moon Knight",
+      "costume": "King Of Clubs",
+      "marvel_id": "1030301",
+      "file": "1030301.png"
+    },
+    {
+      "hero": "Moon Knight",
+      "costume": "Lunar General",
+      "marvel_id": "1030300",
+      "file": "1030300.png"
+    },
+    {
+      "hero": "Moon Knight",
+      "costume": "Mister Knight",
+      "marvel_id": "1030500",
+      "file": "1030500.png"
+    },
+    {
+      "hero": "Moon Knight",
+      "costume": "Moon Knight Mech",
+      "marvel_id": "1030801",
+      "file": "1030801.png"
+    },
+    {
+      "hero": "Moon Knight",
+      "costume": "Phoenix Knight",
+      "marvel_id": "1030501",
+      "file": "1030501.png"
+    },
+    {
+      "hero": "Moon Knight",
+      "costume": "Suave Spector",
+      "marvel_id": "1030502",
+      "file": "1030502.png"
+    },
+    {
+      "hero": "Namor",
+      "costume": "Black Panther Wakanda Forever",
+      "marvel_id": "1045800",
+      "file": "1045800.png"
+    },
+    {
+      "hero": "Namor",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Namor_Default.png"
+    },
+    {
+      "hero": "Namor",
+      "costume": "Lord Of Atlantis",
+      "marvel_id": "1045503",
+      "file": "1045503.png"
+    },
+    {
+      "hero": "Namor",
+      "costume": "Mauve Sub Mariner",
+      "marvel_id": "1045100",
+      "file": "1045100.png"
+    },
+    {
+      "hero": "Namor",
+      "costume": "Monstro King",
+      "marvel_id": "1045301",
+      "file": "1045301.png"
+    },
+    {
+      "hero": "Namor",
+      "costume": "Phantom Tide",
+      "marvel_id": "1045300",
+      "file": "1045300.png"
+    },
+    {
+      "hero": "Namor",
+      "costume": "Phoenix King",
+      "marvel_id": "1045502",
+      "file": "1045502.png"
+    },
+    {
+      "hero": "Namor",
+      "costume": "Retro X Uniform",
+      "marvel_id": "1045501",
+      "file": "1045501.png"
+    },
+    {
+      "hero": "Namor",
+      "costume": "Savage Sub Mariner",
+      "marvel_id": "1045500",
+      "file": "1045500.png"
+    },
+    {
+      "hero": "Namor",
+      "costume": "Sea Samba",
+      "marvel_id": "1045302",
+      "file": "1045302.png"
+    },
+    {
+      "hero": "Namor",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1045101",
+      "file": "1045101.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Badlands Lullaby",
+      "marvel_id": "1042305",
+      "file": "1042305.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Berry Blast",
+      "marvel_id": "ps1042501",
+      "file": "1042501.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Blue Tarantula",
+      "marvel_id": "1042101",
+      "file": "1042101.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Cerulean Corruption",
+      "marvel_id": "ps1042309",
+      "file": "1042309.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Peni_Parker_Default.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Floral Frights",
+      "marvel_id": "1042302",
+      "file": "1042302.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Frosty Fall",
+      "marvel_id": "ps1042502",
+      "file": "1042502.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Olive Skimmer",
+      "marvel_id": "1042100",
+      "file": "1042100.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Peni Parker The Freshman",
+      "marvel_id": "1042306",
+      "file": "1042306.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Skeleton",
+      "marvel_id": "ps1042304",
+      "file": "1042304.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Snow Spdr",
+      "marvel_id": "1042303",
+      "file": "1042303.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Toxic Tint",
+      "marvel_id": "ps1042308",
+      "file": "1042308.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Venm",
+      "marvel_id": "1042500",
+      "file": "1042500.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Wasteland Mech",
+      "marvel_id": "1042301",
+      "file": "1042301.png"
+    },
+    {
+      "hero": "Peni Parker",
+      "costume": "Yatsukahagi",
+      "marvel_id": "1042300",
+      "file": "1042300.png"
+    },
+    {
+      "hero": "Phoenix",
+      "costume": "Chaos Phoenix",
+      "marvel_id": "1054300",
+      "file": "1054300.png"
+    },
+    {
+      "hero": "Phoenix",
+      "costume": "Dark Phoenix",
+      "marvel_id": "1054500",
+      "file": "1054500.png"
+    },
+    {
+      "hero": "Phoenix",
+      "costume": "Emerald Flames",
+      "marvel_id": "1054101",
+      "file": "1054101.png"
+    },
+    {
+      "hero": "Phoenix",
+      "costume": "Ice Phoenix",
+      "marvel_id": "1054301",
+      "file": "1054301.png"
+    },
+    {
+      "hero": "Phoenix",
+      "costume": "Phoenix",
+      "marvel_id": "",
+      "file": "Phoenix_Phoenix.png"
+    },
+    {
+      "hero": "Phoenix",
+      "costume": "Seat Of Spring",
+      "marvel_id": "1054501",
+      "file": "1054501.png"
+    },
+    {
+      "hero": "Phoenix",
+      "costume": "The Return Of Jean Grey",
+      "marvel_id": "1054100",
+      "file": "1054100.png"
+    },
+    {
+      "hero": "Phoenix",
+      "costume": "Verdant Vogue",
+      "marvel_id": "1054502",
+      "file": "1054502.png"
+    },
+    {
+      "hero": "Phoenix",
+      "costume": "White Crown Phoenix",
+      "marvel_id": "1054503",
+      "file": "1054503.png"
+    },
+    {
+      "hero": "Phoenix",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1054102",
+      "file": "1054102.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Amethyst Aura",
+      "marvel_id": "ps1048312",
+      "file": "1048312.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Blood Kariudo",
+      "marvel_id": "1048300",
+      "file": "1048300.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Blue Bolt",
+      "marvel_id": "ps1048306",
+      "file": "1048306.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Breezy Butterfly",
+      "marvel_id": "1048502",
+      "file": "1048502.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Chouko Takahashi The Prodigy",
+      "marvel_id": "1048309",
+      "file": "1048309.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Cobalt Charm",
+      "marvel_id": "ps1048314",
+      "file": "1048314.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Daring Daifuku",
+      "marvel_id": "1048302",
+      "file": "1048302.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Psylocke_Default.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Fleeting Butterfly",
+      "marvel_id": "1048301",
+      "file": "1048301.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Grape Wagashi",
+      "marvel_id": "ps1048308",
+      "file": "1048308.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Kirisaki Sakura",
+      "marvel_id": "1048100",
+      "file": "1048100.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Matcha Mirage",
+      "marvel_id": "ps1048307",
+      "file": "1048307.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Moonlit Mirage",
+      "marvel_id": "ps1048505",
+      "file": "1048505.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Once Captive Corsair",
+      "marvel_id": "1048303",
+      "file": "1048303.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Orange Edge",
+      "marvel_id": "ps1048305",
+      "file": "1048305.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Phantom Purple",
+      "marvel_id": "ps1048503",
+      "file": "1048503.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Psychedelic Pulse",
+      "marvel_id": "1048304",
+      "file": "1048304.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Retro X Uniform",
+      "marvel_id": "1048501",
+      "file": "1048501.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Sporty Tea",
+      "marvel_id": "ps1048313",
+      "file": "1048313.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Twilight Tones",
+      "marvel_id": "ps1048311",
+      "file": "1048311.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Vengeance",
+      "marvel_id": "1048500",
+      "file": "1048500.png"
+    },
+    {
+      "hero": "Psylocke",
+      "costume": "Violet Veil",
+      "marvel_id": "ps1048504",
+      "file": "1048504.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Bluebell Breeze",
+      "marvel_id": "ps1023304",
+      "file": "1023304.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Bounty Hunter",
+      "marvel_id": "1023300",
+      "file": "1023300.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Rocket_Raccoon_Default.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Giant Panda",
+      "marvel_id": "1023306",
+      "file": "1023306.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Golden Artificer",
+      "marvel_id": "1023308",
+      "file": "1023308.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Guardians Of The Galaxy Vol 3",
+      "marvel_id": "1023801",
+      "file": "1023801.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Radiant Reef",
+      "marvel_id": "ps1023303",
+      "file": "1023303.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Rocket Of The Rafters",
+      "marvel_id": "1023305",
+      "file": "1023305.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Rocky",
+      "marvel_id": "1023100",
+      "file": "1023100.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Rocky The Transfer",
+      "marvel_id": "1023307",
+      "file": "1023307.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Sunshine Raccoon",
+      "marvel_id": "1023302",
+      "file": "1023302.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Symbiote Raccoon",
+      "marvel_id": "1023500",
+      "file": "1023500.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Wild Winter",
+      "marvel_id": "1023301",
+      "file": "1023301.png"
+    },
+    {
+      "hero": "Rocket Raccoon",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1023101",
+      "file": "1023101.png"
+    },
+    {
+      "hero": "Rogue",
+      "costume": "High Noon",
+      "marvel_id": "ps1065503",
+      "file": "1065503.png"
+    },
+    {
+      "hero": "Rogue",
+      "costume": "Midnight Mirage",
+      "marvel_id": "ps1065502",
+      "file": "1065502.png"
+    },
+    {
+      "hero": "Rogue",
+      "costume": "Mrs X",
+      "marvel_id": "1065301",
+      "file": "1065301.png"
+    },
+    {
+      "hero": "Rogue",
+      "costume": "Queens Defense",
+      "marvel_id": "1065100",
+      "file": "1065100.png"
+    },
+    {
+      "hero": "Rogue",
+      "costume": "Raider Prime",
+      "marvel_id": "1065501",
+      "file": "1065501.png"
+    },
+    {
+      "hero": "Rogue",
+      "costume": "Rogue",
+      "marvel_id": "",
+      "file": "Rogue_Rogue.png"
+    },
+    {
+      "hero": "Rogue",
+      "costume": "Rogue Redux",
+      "marvel_id": "1065300",
+      "file": "1065300.png"
+    },
+    {
+      "hero": "Rogue",
+      "costume": "Searing Spellstripe",
+      "marvel_id": "1065101",
+      "file": "1065101.png"
+    },
+    {
+      "hero": "Rogue",
+      "costume": "Starlit Rebel",
+      "marvel_id": "1065500",
+      "file": "1065500.png"
+    },
+    {
+      "hero": "Rogue",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1065102",
+      "file": "1065102.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Chaos Gown",
+      "marvel_id": "1038500",
+      "file": "1038500.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Deep Green Magic",
+      "marvel_id": "ps1038306",
+      "file": "1038306.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Scarlet_Witch_Default.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Doctor Strange In The Multiverse Of Madness",
+      "marvel_id": "1038800",
+      "file": "1038800.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Emporium Matron",
+      "marvel_id": "1038501",
+      "file": "1038501.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Frostbitten Witch",
+      "marvel_id": "ps1038305",
+      "file": "1038305.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Immortal Sovereign",
+      "marvel_id": "1038300",
+      "file": "1038300.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Majestic Mauve",
+      "marvel_id": "ps1038302",
+      "file": "1038302.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Neon Nimbus",
+      "marvel_id": "ps1038303",
+      "file": "1038303.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Nyx Weaver",
+      "marvel_id": "1038101",
+      "file": "1038101.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Phoenix Chaos",
+      "marvel_id": "1038301",
+      "file": "1038301.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "The Queen Of The Dead",
+      "marvel_id": "1038801",
+      "file": "1038801.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Twisted Conjurer",
+      "marvel_id": "1038304",
+      "file": "1038304.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "White Witch",
+      "marvel_id": "1038100",
+      "file": "1038100.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1038102",
+      "file": "1038102.png"
+    },
+    {
+      "hero": "Scarlet Witch",
+      "costume": "Witch Of The Evil Eye",
+      "marvel_id": "1038502",
+      "file": "1038502.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Bag Man Beyond",
+      "marvel_id": "1036501",
+      "file": "1036501.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Black Gold",
+      "marvel_id": "1036102",
+      "file": "1036102.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Black Suit",
+      "marvel_id": "1036502",
+      "file": "1036502.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Chasm",
+      "marvel_id": "1036101",
+      "file": "1036101.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Coastal Wall Crawler",
+      "marvel_id": "1036301",
+      "file": "1036301.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Spider_Man_Default.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Future Foundation",
+      "marvel_id": "1036504",
+      "file": "1036504.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Groovy Swing",
+      "marvel_id": "1036509",
+      "file": "1036509.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Iron Spider",
+      "marvel_id": "1036508",
+      "file": "1036508.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Man Spider",
+      "marvel_id": "1036505",
+      "file": "1036505.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Marvel Cosmic Invasion",
+      "marvel_id": "1036801",
+      "file": "1036801.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Marvels Spider Man 2",
+      "marvel_id": "1036503",
+      "file": "1036503.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Peter Parker The Photographer",
+      "marvel_id": "1036510",
+      "file": "1036510.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Scarlet Spider",
+      "marvel_id": "1036100",
+      "file": "1036100.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Spider Man No Way Home",
+      "marvel_id": "1036800",
+      "file": "1036800.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Spider Oni",
+      "marvel_id": "1036300",
+      "file": "1036300.png"
+    },
+    {
+      "hero": "Spider Man",
+      "costume": "Spider Punk 2099",
+      "marvel_id": "1036500",
+      "file": "1036500.png"
+    },
+    {
+      "hero": "Squirrel Girl",
+      "costume": "Arctic Lemmus",
+      "marvel_id": "1032100",
+      "file": "1032100.png"
+    },
+    {
+      "hero": "Squirrel Girl",
+      "costume": "Cheerful Dragoness",
+      "marvel_id": "1032301",
+      "file": "1032301.png"
+    },
+    {
+      "hero": "Squirrel Girl",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Squirrel_Girl_Default.png"
+    },
+    {
+      "hero": "Squirrel Girl",
+      "costume": "Maureen Allene The Programmer",
+      "marvel_id": "1032306",
+      "file": "1032306.png"
+    },
+    {
+      "hero": "Squirrel Girl",
+      "costume": "Nut Rocker",
+      "marvel_id": "1032300",
+      "file": "1032300.png"
+    },
+    {
+      "hero": "Squirrel Girl",
+      "costume": "Red Panda",
+      "marvel_id": "1032305",
+      "file": "1032305.png"
+    },
+    {
+      "hero": "Squirrel Girl",
+      "costume": "Sunshine Squirrel",
+      "marvel_id": "1032302",
+      "file": "1032302.png"
+    },
+    {
+      "hero": "Squirrel Girl",
+      "costume": "Symbiote Squirrel",
+      "marvel_id": "1032501",
+      "file": "1032501.png"
+    },
+    {
+      "hero": "Squirrel Girl",
+      "costume": "Tinsel Tail",
+      "marvel_id": "1032304",
+      "file": "1032304.png"
+    },
+    {
+      "hero": "Squirrel Girl",
+      "costume": "Turbo Tailwind",
+      "marvel_id": "1032303",
+      "file": "1032303.png"
+    },
+    {
+      "hero": "Squirrel Girl",
+      "costume": "Urban Hunter",
+      "marvel_id": "1032500",
+      "file": "1032500.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Star_Lord_Default.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "Glory Gunner",
+      "marvel_id": "1043303",
+      "file": "1043303.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "Groovy Guardian",
+      "marvel_id": "1043302",
+      "file": "1043302.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "Guardians Of The Galaxy Vol 3",
+      "marvel_id": "1043800",
+      "file": "1043800.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "Ignite Star Lord 2025",
+      "marvel_id": "1043102",
+      "file": "1043102.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "Jovial Star",
+      "marvel_id": "1043100",
+      "file": "1043100.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "King Of Spartax",
+      "marvel_id": "1043501",
+      "file": "1043501.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "Lions Mane",
+      "marvel_id": "1043300",
+      "file": "1043300.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "Luminous Legend",
+      "marvel_id": "1043103",
+      "file": "1043103.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "Master Of The Sun",
+      "marvel_id": "1043500",
+      "file": "1043500.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "Starcracker",
+      "marvel_id": "1043301",
+      "file": "1043301.png"
+    },
+    {
+      "hero": "Star Lord",
+      "costume": "Starlit Outlaw",
+      "marvel_id": "1043502",
+      "file": "1043502.png"
+    },
+    {
+      "hero": "Storm",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Storm_Default.png"
+    },
+    {
+      "hero": "Storm",
+      "costume": "Goddess Of Thunder",
+      "marvel_id": "1015502",
+      "file": "1015502.png"
+    },
+    {
+      "hero": "Storm",
+      "costume": "Ivory Breeze",
+      "marvel_id": "1015100",
+      "file": "1015100.png"
+    },
+    {
+      "hero": "Storm",
+      "costume": "Judicator Xiezhi",
+      "marvel_id": "1015300",
+      "file": "1015300.png"
+    },
+    {
+      "hero": "Storm",
+      "costume": "Mohawk Rock",
+      "marvel_id": "1015500",
+      "file": "1015500.png"
+    },
+    {
+      "hero": "Storm",
+      "costume": "Queen Of Wakanda",
+      "marvel_id": "1015504",
+      "file": "1015504.png"
+    },
+    {
+      "hero": "Storm",
+      "costume": "Symbiote Storm",
+      "marvel_id": "1015503",
+      "file": "1015503.png"
+    },
+    {
+      "hero": "Storm",
+      "costume": "Ultimate Wind Rider",
+      "marvel_id": "1015501",
+      "file": "1015501.png"
+    },
+    {
+      "hero": "Storm",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1015101",
+      "file": "1015101.png"
+    },
+    {
+      "hero": "The Punisher",
+      "costume": "Amber Annihilator",
+      "marvel_id": "ps1014505",
+      "file": "1014505.png"
+    },
+    {
+      "hero": "The Punisher",
+      "costume": "Aqua Arsenal",
+      "marvel_id": "1014502",
+      "file": "1014502.png"
+    },
+    {
+      "hero": "The Punisher",
+      "costume": "Camo",
+      "marvel_id": "1014100",
+      "file": "1014100.png"
+    },
+    {
+      "hero": "The Punisher",
+      "costume": "Dangan Ronin",
+      "marvel_id": "1014300",
+      "file": "1014300.png"
+    },
+    {
+      "hero": "The Punisher",
+      "costume": "Daredevil Born Again",
+      "marvel_id": "1014800",
+      "file": "1014800.png"
+    },
+    {
+      "hero": "The Punisher",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "The_Punisher_Default.png"
+    },
+    {
+      "hero": "The Punisher",
+      "costume": "Emerald Executioner",
+      "marvel_id": "ps1014504",
+      "file": "1014504.png"
+    },
+    {
+      "hero": "The Punisher",
+      "costume": "Franken Castle",
+      "marvel_id": "1014503",
+      "file": "1014503.png"
+    },
+    {
+      "hero": "The Punisher",
+      "costume": "Marauder Marksman",
+      "marvel_id": "1014301",
+      "file": "1014301.png"
+    },
+    {
+      "hero": "The Punisher",
+      "costume": "Punisher 2099",
+      "marvel_id": "1014501",
+      "file": "1014501.png"
+    },
+    {
+      "hero": "The Punisher",
+      "costume": "Thunderbolts",
+      "marvel_id": "1014500",
+      "file": "1014500.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "Blue Thing",
+      "marvel_id": "1051102",
+      "file": "1051102.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "The_Thing_Default.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "Fear Itself",
+      "marvel_id": "1051504",
+      "file": "1051504.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "First Family",
+      "marvel_id": "1051100",
+      "file": "1051100.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "Future Foundation",
+      "marvel_id": "1051501",
+      "file": "1051501.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "Infinity Thing",
+      "marvel_id": "1051505",
+      "file": "1051505.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "Rocky Tide",
+      "marvel_id": "1051300",
+      "file": "1051300.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "Sunshine Thing",
+      "marvel_id": "1051301",
+      "file": "1051301.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "Symbiote Thing",
+      "marvel_id": "1051502",
+      "file": "1051502.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "The Fantastic Four First Steps",
+      "marvel_id": "1051800",
+      "file": "1051800.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "The Unlimited",
+      "marvel_id": "1051101",
+      "file": "1051101.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "Trench Coat",
+      "marvel_id": "1051500",
+      "file": "1051500.png"
+    },
+    {
+      "hero": "The Thing",
+      "costume": "Verdant Vanguard",
+      "marvel_id": "ps1051302",
+      "file": "1051302.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Azure Skies",
+      "marvel_id": "ps1039302",
+      "file": "1039302.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Boogie Bolt",
+      "marvel_id": "1039504",
+      "file": "1039504.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Thor_Default.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "God Of Winter",
+      "marvel_id": "1039303",
+      "file": "1039303.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Herald Of Thunder",
+      "marvel_id": "1039500",
+      "file": "1039500.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Lightning Fast",
+      "marvel_id": "1039301",
+      "file": "1039301.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Lord Of Asgard",
+      "marvel_id": "1039502",
+      "file": "1039502.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Low Key Thor",
+      "marvel_id": "1039505",
+      "file": "1039505.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Majestic Raiment",
+      "marvel_id": "1039503",
+      "file": "1039503.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Midgard Umber",
+      "marvel_id": "1039100",
+      "file": "1039100.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Purple Pulse",
+      "marvel_id": "ps1039508",
+      "file": "1039508.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Reborn From Ragnarok",
+      "marvel_id": "1039501",
+      "file": "1039501.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Shadow Shock",
+      "marvel_id": "ps1039507",
+      "file": "1039507.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Thor Love And Thunder",
+      "marvel_id": "1039800",
+      "file": "1039800.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Unworthy Thor",
+      "marvel_id": "1039506",
+      "file": "1039506.png"
+    },
+    {
+      "hero": "Thor",
+      "costume": "Worthy Waves",
+      "marvel_id": "1039300",
+      "file": "1039300.png"
+    },
+    {
+      "hero": "Ultron",
+      "costume": "Cybernetic Drip",
+      "marvel_id": "1028302",
+      "file": "1028302.png"
+    },
+    {
+      "hero": "Ultron",
+      "costume": "Golden Ultron",
+      "marvel_id": "1028101",
+      "file": "1028101.png"
+    },
+    {
+      "hero": "Ultron",
+      "costume": "Infinity Ultron",
+      "marvel_id": "1028800",
+      "file": "1028800.png"
+    },
+    {
+      "hero": "Ultron",
+      "costume": "Mechanical Phantom",
+      "marvel_id": "1028100",
+      "file": "1028100.png"
+    },
+    {
+      "hero": "Ultron",
+      "costume": "Odinforce Ultron",
+      "marvel_id": "1028502",
+      "file": "1028502.png"
+    },
+    {
+      "hero": "Ultron",
+      "costume": "Ultron",
+      "marvel_id": "",
+      "file": "Ultron_Ultron.png"
+    },
+    {
+      "hero": "Ultron",
+      "costume": "Ultron 15",
+      "marvel_id": "1028503",
+      "file": "1028503.png"
+    },
+    {
+      "hero": "Ultron",
+      "costume": "Wasteland Robot",
+      "marvel_id": "1028300",
+      "file": "1028300.png"
+    },
+    {
+      "hero": "Ultron",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1028102",
+      "file": "1028102.png"
+    },
+    {
+      "hero": "Ultron",
+      "costume": "X Tron",
+      "marvel_id": "1028500",
+      "file": "1028500.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Anti Venom",
+      "marvel_id": "1035101",
+      "file": "1035101.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Cyan Clash",
+      "marvel_id": "1035100",
+      "file": "1035100.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Venom_Default.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Frosted Agony",
+      "marvel_id": "ps1035305",
+      "file": "1035305.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Gummy Surprise",
+      "marvel_id": "1035302",
+      "file": "1035302.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Hyper Orange",
+      "marvel_id": "1035102",
+      "file": "1035102.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Lingering Imprint",
+      "marvel_id": "1035500",
+      "file": "1035500.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Marvel Cosmic Invasion",
+      "marvel_id": "1035800",
+      "file": "1035800.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Phage Palette",
+      "marvel_id": "ps1035304",
+      "file": "1035304.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Pink Bubble",
+      "marvel_id": "1035103",
+      "file": "1035103.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Reborn King In Black",
+      "marvel_id": "1035301",
+      "file": "1035301.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Snow Symbiote",
+      "marvel_id": "1035300",
+      "file": "1035300.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Space Corsair",
+      "marvel_id": "1035303",
+      "file": "1035303.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Space Knight",
+      "marvel_id": "1035501",
+      "file": "1035501.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "Venom Bloom",
+      "marvel_id": "1035503",
+      "file": "1035503.png"
+    },
+    {
+      "hero": "Venom",
+      "costume": "War Of The Realms",
+      "marvel_id": "1035502",
+      "file": "1035502.png"
+    },
+    {
+      "hero": "White Fox",
+      "costume": "Coastal Kumiho",
+      "marvel_id": "1060501",
+      "file": "1060501.png"
+    },
+    {
+      "hero": "White Fox",
+      "costume": "Magical Mint",
+      "marvel_id": "ps1060300",
+      "file": "1060300.png"
+    },
+    {
+      "hero": "White Fox",
+      "costume": "Pink Paws",
+      "marvel_id": "ps1060301",
+      "file": "1060301.png"
+    },
+    {
+      "hero": "White Fox",
+      "costume": "Rosy Recon",
+      "marvel_id": "1060100",
+      "file": "1060100.png"
+    },
+    {
+      "hero": "White Fox",
+      "costume": "Secret Agent",
+      "marvel_id": "1060101",
+      "file": "1060101.png"
+    },
+    {
+      "hero": "White Fox",
+      "costume": "White Fox",
+      "marvel_id": "",
+      "file": "White_Fox_White_Fox.png"
+    },
+    {
+      "hero": "White Fox",
+      "costume": "Yoon Ji Woo The Leader",
+      "marvel_id": "1060500",
+      "file": "1060500.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Blood Soldier",
+      "marvel_id": "1041300",
+      "file": "1041300.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Bucky",
+      "marvel_id": "1041503",
+      "file": "1041503.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Winter_Soldier_Default.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Navy Trooper",
+      "marvel_id": "1041100",
+      "file": "1041100.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Polarity Soldier",
+      "marvel_id": "1041301",
+      "file": "1041301.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Revolution",
+      "marvel_id": "1041500",
+      "file": "1041500.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Ruby Ranger",
+      "marvel_id": "ps1041102",
+      "file": "1041102.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Starlit Gunslinger",
+      "marvel_id": "1041304",
+      "file": "1041304.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Tawny Tracker",
+      "marvel_id": "ps1041103",
+      "file": "1041103.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Thunderbolts",
+      "marvel_id": "1041800",
+      "file": "1041800.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Winter Buckaroo",
+      "marvel_id": "1041502",
+      "file": "1041502.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Winters Veil",
+      "marvel_id": "1041501",
+      "file": "1041501.png"
+    },
+    {
+      "hero": "Winter Soldier",
+      "costume": "Winters Wrath",
+      "marvel_id": "ps1041302",
+      "file": "1041302.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "Blood Berserker",
+      "marvel_id": "1049300",
+      "file": "1049300.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "Bloodless Berserker",
+      "marvel_id": "1049504",
+      "file": "1049504.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "Deadpool Wolverine",
+      "marvel_id": "1049800",
+      "file": "1049800.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "Default",
+      "marvel_id": "",
+      "file": "Wolverine_Default.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "Dog Brother X",
+      "marvel_id": "1049301",
+      "file": "1049301.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "Lone Wolf",
+      "marvel_id": "1049100",
+      "file": "1049100.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "Patch",
+      "marvel_id": "1049500",
+      "file": "1049500.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "Weapon Phoenix",
+      "marvel_id": "1049502",
+      "file": "1049502.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "Weapon X",
+      "marvel_id": "1049501",
+      "file": "1049501.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "Will Of Galacta",
+      "marvel_id": "1049101",
+      "file": "1049101.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "Winter Soldier",
+      "marvel_id": "1049503",
+      "file": "1049503.png"
+    },
+    {
+      "hero": "Wolverine",
+      "costume": "X 2099",
+      "marvel_id": "1049302",
+      "file": "1049302.png"
+    }
+  ]
+}
